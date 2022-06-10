@@ -52,19 +52,19 @@ h1 {
 }
 
 .a {
-    background-image: url("/images/artwork.jpeg");
+    background-image: url("/WebPage/images/artwork.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .b {
-    background-image: url("/images/nightsky.jpeg");
+    background-image: url("/WebPage/images/nightsky.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .c {
-    background-image: url("/images/nature.jpeg");
+    background-image: url("/WebPage/images/nature.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
 }
